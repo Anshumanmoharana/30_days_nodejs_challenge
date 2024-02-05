@@ -14,3 +14,5 @@ function checkFileExtension(filePath, expectedExtension) {
 //TESTCASES
 checkFileExtension('test-files/file1.txt', '.txt');
 checkFileExtension('test-files/image.png', '.jpg');
+
+
